@@ -1,0 +1,2 @@
+Član 6.
+U članu 27., iza stava 1. dodaje se novi stav 2., koji glasi: „Nastavnim planom i programom za srednje stručno obrazovanje posebno se utvrđuje svrha, ciljevi i zadaci programa, nastavni predmeti i sadržaji, trajanje i osnovni oblici izvođenja programa, godišnji i sedmični broj sati nastave, praktične obuke, broj sati za svaki predmet, didaktički i drugi uslovi za izvođenje nastavnog plana i programa.“ Dosadašnji stav 2., postaje stav 3.
