@@ -1,0 +1,2 @@
+Član 1.
+U Zakonu o kantonalnim administrativnim taksama – Prečišćeni tekst („Službene novine Zeničko-dobojskog kantona“, broj: 13/02, 12/03, 4/04, 5/04, 4/08 i 7/09) u dijelu „Tarifa Kantonalnih administrativnih taksi“, u odjeljku II. RJEŠENJA, Tarifni brojevi „12., 13., 14., 15., 16., 17., 18., 19. i 20.“ se brišu. Dosadašnji Tarifni broj „21.“ postaje Tarifni broj „12.“ dok se ostali Tarifni brojevi redaju numeričkim redoslj-edom do kraja Tarife Kantonalnih administrativnih taksi.
