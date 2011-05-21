@@ -1,0 +1,1 @@
+Na osnovu člana 37. stav 1. tačka f) Ustava Zeničko-dobojskog kantona i člana 32. Zakona o izmjenama i dopunama Zakona o zaštiti i spašavanju ljudi i materi-jalnih dobara od prirodnih i drugih nesreća („Službene novine Federacije Bosne i Hercegovine“, broj: 43/10), Skupština Zeničko-dobojskog kantona na 6. sjednici održanoj 04.05.2011. godine, donosi
