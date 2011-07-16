@@ -1,0 +1,2 @@
+Član 17.
+U članu 86., iza stava 2., dodaje se novi stav 3., koji glasi: „Članovi školskog odbora koji se biraju na prijedlog nastavničkog vijeća, odnosno vijeća roditelja, dužni su pribaviti, u pisanoj formi, stavove nastavničkog vijeća odnosno vijeća roditelja utvrđene tajnim glasanjem, o kandidatu za direktora koji ima njihovu podršku.“ Dosadašnji stavovi 3., 4., 5., 6., 7., 8., i 9. postaju stavovi 4., 5., 6., 7., 8., 9. i 10.“

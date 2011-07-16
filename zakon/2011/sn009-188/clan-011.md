@@ -1,0 +1,2 @@
+Član 11.
+U članu 54., u stavu 1., broj „V“ zamjenjuje se brojem „VI“. U istom članu, iza stava 2., dodaju se novi stavovi 3. i 4., koji glase: „Učenik od II do III razreda koji na kraju drugog polugodišta ima nedovoljne ocjene prevodi se u naredni razred. Učenik od IV do V razreda koji na kraju drugog polugodišta ima jednu ili dvije nedovoljne ocjene prevodi se u naredni razred.“ Dosadašnji stavovi 3., 4. i 5. postaju stavovi 5., 6. i 7.

@@ -1,0 +1,2 @@
+Član 3.
+U članu 30., stav 1. mijenja se i glasi: „Nastava u prvom polugodištu počinje u pravilu, prvog radnog dana u septembru.“. U istom članu, iza stava 2., dodaje se novi stav 3. koji glasi: „Ukoliko se vannastavne aktivnosti, zbog ograničenja prostornih kapaciteta škole, ne mogu realizirati u petodnevnoj radnoj sedmici, iste se mogu realizirati jedne subote u mjesecu.“ U istom članu, u stavu 4., riječ: „četvrtog“, zamjenjuje se riječju: „drugog“. Dosadašnji stavovi 3., 4., i 5. postaju stavovi 4., 5. i 6.

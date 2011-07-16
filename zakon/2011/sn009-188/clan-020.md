@@ -1,0 +1,3 @@
+Član 20.
+U poglavlju IXa., dodaje se novi član „94a.“, koji glasi:
+Član 94a. S ciljem uspostavljanja uzajamne saradnje, razmjene iskustava u pogledu dogovora o nastavnim metodama, primjerima dobre prakse, i ostalim aktivnostima vezanim za unapređenje nastavnog procesa mogu se formirati aktivi direktora. Aktiv direktora može se formirati za jednu ili više općina, a čine ga direktori osnovnih škola sa područja jedne ili više općina. Aktom o formiranju aktiva direktora utvrđuje se sastav, djelokrug rada i ostali poslovi aktiva direktora. Aktiv direktora donosi Poslovnik o radu uz saglasnost Ministarstva. Aktivi direktora iz stava 2., ovog člana mogu formirati Aktiv direktora osnovnih škola Zeničko-dobojskog kantona, koji nema svojstvo pravnog lica.“
