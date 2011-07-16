@@ -1,0 +1,2 @@
+Član 6.
+U članu 62., iza stava 1., dodaju se novi stavovi 2. i 3., koji glase: „Učenici sa smetnjama u psihičkom ili tjelesnom raz-voju, pod određenim uvjetima, mogu se uključiti u redov-no srednjoškolsko obrazovanje, po principu inkluzivnog obrazovanja. Inkluzivno obrazovanje u srednjim školama se odvija u skladu sa Pravilnikom o obrazovanju učenika sa sme-tnjama u psihičkom ili tjelesnom razvoju koji donosi ministar.“

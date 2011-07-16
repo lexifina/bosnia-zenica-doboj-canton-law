@@ -1,0 +1,3 @@
+Član 15.
+Iza člana 138. dodaje se novi član „138a.“, koji glasi:
+„Član 138a. S ciljem uspostavljanja uzajamne saradnje, razmjene iskustava u pogledu dogovora o nastavnim metodama, primjerima dobre prakse i ostalim aktivnostima vezanim za unapređenje nastavnog procesa, mogu se formirati aktivi direktora. Aktiv direktora srednjih škola, može se formirati za jednu ili više općina, a čine ga direktori srednjih škola sa područja jedne ili više općina. Aktom o formiranju aktiva direktora utvrđuje se sastav, djelokrug rada i ostali poslovi aktiva direktora. Aktiv direktora donosi Poslovnik o radu, uz saglasnost Ministarstva. Aktivi direktora iz stava 2., ovog člana, mogu formirati Aktiv direktora srednjih škola Zeničko-dobojskog kant-ona, koji nema svojstvo pravnog lica.“
