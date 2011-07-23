@@ -1,0 +1,2 @@
+Član 22.
+U članu 44., iza stava 1. dodaje se novi stav 2. koji glasi: “Organizacija sportskih takmičenja i priredbi mora biti organizovana u skladu sa Zakonom o bezbjednosti održavanja sportskih takmičenja u Zeničko-dobojskom kantonu (“Službene novine Zeničko-dobojskog kantona”, broj: 2/06 i 11/07) i odgovarajućim propisima u Kantonu, Bosni i Hercegovini kao i preporukama Evropske konvencije o suzbijanju nasilja i nedoličnog ponašanja gledalaca na sportskim priredbama, posebno na nogo-metnim utakmicama.”

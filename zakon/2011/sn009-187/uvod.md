@@ -1,0 +1,1 @@
+Na osnovu člana 37. stav 1. tačka f) Ustava Zeničko-dobojskog kantona i člana 75. Zakona o sportu u Bosni i Hercegovini (“Službeni glasnik Bosne i Hercegovine”, broj: 27/08 i 102/09), Skupština Zeničko-dobojskog kantona na 8. sjednici održanoj 23.06.2011. godine, donosi
