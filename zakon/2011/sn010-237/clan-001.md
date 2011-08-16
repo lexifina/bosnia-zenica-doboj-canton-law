@@ -1,0 +1,2 @@
+Član 1.
+U Zakonu o raseljenim licima i povratnicima („Služ-bene novine Zeničko-dobojskog kantona“, broj: 6/06 i 10/08), u članu 3. iza stava (3) dodaje se stav (4) koji glasi: „(4) Povratnici u smislu ovog Zakona koji se ponovo nastanjuju na svoje ranije prebivalište u Republici Srpskoj, zadržavaju stečeni status i nakon isteka roka od šest mjeseci računajući od dana povratka, a prava koja će im se osigurati utvrdit će se Odlukom Vlade Zeničko-dobojskog kantona.“
