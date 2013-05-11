@@ -1,0 +1,7 @@
+Član 18.
+(Sklapanje ugovora o JPP-u)
+(1) Nadležno javno tijelo dužno je prije donošenja Odluke o izboru privatnog partnera dostaviti Komisiji na odobrenje konačni nacrt ugovora o JPP-u, uključujući priloge koji čine njegov sastavni dio, kao i saglasnost Ministarstva finansija, odnosno nadležne općinske službe na konačni nacrt ugovora.
+(2) Komisija je dužna u roku od 30 dana od dana zaprimanja konačnog nacrta ugovora donijeti Odluku o saglasnosti na tekst nacrta ugovora iz stava (1) ovog člana, koju utvrđuje na osnovu ocjene o usklađenosti konačnog nacrta ugovora s dokumentacijom za nadmetanje i odredbama člana 7. stav 3. ovog zakona.
+(3) Odluku iz stava (2) ovog člana sa cjelokupnom dokumentacijom Komisija uz prethodno pribavljeno mišljenje Kantonalnog/Općinskog pravobranioca dostavlja Vladi, odnosno Općinskom načelniku koji na prijedlog Komisije donose akte o saglasnosti na konačni nacrt ugovora o JPP-u.
+(4) Ugovor o JPP-u na nivou Kantona može biti sklopljen isključivo na osnovu akta Vlade iz stava (3) ovog člana, a na nivou općine ugovor o JPP-u može biti sklopljen samo na osnovu akta Općinskog načelnika i saglasnosti Vijeća na konačni nacrt ugovora. Ovi akti se objavljuju u “Službenim novinama Zeničko-dobojskog kantona” i „Službenom glasniku općine“.
+(5) Za sve izmjene i dopune sklopljenih ugovora o JPP-u kojim se mijenjaju prava i obaveze ugovornih strana potrebno je provesti postupak u skladu sa odredbama ovog člana.
