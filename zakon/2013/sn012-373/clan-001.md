@@ -1,0 +1,2 @@
+Član 1.
+U Zakonu o kantonalnim administrativnim taksama – Prečišćeni tekst („Službene novine Zeničko-dobojskog kantona“, broj: 13/02, 12/03, 4/04, 5/04, 4/08, 7/09, 2/10, 6/10 i 9/10, u daljnjem tekstu: (Zakon o kantonalnim administrativnim taksama), član 12. mijenja se i glasi: “Takse predviđene ovim zakonom plaćaju se u taksenim markama ili uplatom na žiro-račun Zeničko-dobojskog kantona putem jedne od komercijalnih banaka. Takse Kantona su prihod budžeta Kantona.”
