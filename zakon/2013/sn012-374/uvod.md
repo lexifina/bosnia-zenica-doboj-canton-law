@@ -1,0 +1,1 @@
+Na osnovu člana 37. stav 1. tačka f) Ustava Zeničko-dobojskog kantona i člana 26. Zakona o organizaciji organa uprave Federacije BiH („Službene novine Federacije BiH“ broj: 35/05), Skupština Zeničko-dobojskog kantona na prijedlog Ministarstva za prostorno uređenje, promet i komunikacije i zaštitu okoline, na 45. sjednici održanoj dana 09.10.2013. godine, d o n o s i:
