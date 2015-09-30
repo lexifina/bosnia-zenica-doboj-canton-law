@@ -1,0 +1,1 @@
+Na osnovu člana 37. stav 1. tačka f) Ustava Zeničko-dobojskog kantona i člana 117. stav 2. Zakona o električnoj energiji (“Službene novine Federacije Bosne i Hercegovine“, broj: 66/13), Skupština Zeničko-dobojskog kantona, na 15. sjednici održanoj 09.09.2015. godine, d o n o s i
