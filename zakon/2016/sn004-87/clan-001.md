@@ -1,0 +1,2 @@
+Član 1.
+U članu 33. Zakona o prostornom uređenju i građenju („Službene novine Zeničko-dobojskog kantona“, broj:1/14) iza stava (5) dodaje se stav (6), koji glasi: „(6) Ukoliko je prijedlog Prostornog plana na koji je Ministarstvo dalo saglasnost iz stava (5) ovog člana, u postupku donošenja, usvajanjem amandmana pretrpio određene izmjene u odnosu na Prijedlog, općina je dužna pribaviti saglasnost Ministarstva o usklađenosti Prostornog plana sa usvojenim Prostornim planom Kantona.“
