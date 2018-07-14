@@ -1,0 +1,1 @@
+Na osnovu člana 37. stav 1. tačka f) Ustava Zeničko-dobojskog kantona, kao i na osnovu člana 3. Zakona o ustanovama (Službeni list RBiH, br. 6/92, 8/93 i 13/94), Skupština Zeničko-dobojskog kantona, na 61. sjednici, održanoj 28.06.2018. godine, d o n o s i:
