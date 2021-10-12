@@ -1,0 +1,1 @@
+Na osnovu člana 37. stav (1) tačka f) Ustava Zeničko-dobojskog kantona („Službene novine Federacije BiH“, broj: 7/96, „Službene novine Zeničko-dobojskog kantona“, broj: 1/96, 10/00, 8/04 i 10/04), Skupština Zeničko-dobojskog kantona, na 38. sjednici, održanoj dana 29.09.2021. godine, d o n i j e l a je:
