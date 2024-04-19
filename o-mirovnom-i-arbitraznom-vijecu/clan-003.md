@@ -1,0 +1,9 @@
+Član 3.
+(Dobrovoljnost u mirnom rješavanju sporova)
+(1) Strane u individualnom, odnosno kolektivnom sporu
+dobrovoljno odlučuju o mirnom rješavanju radnog
+spora, ako ovim ili drugim Zakonom nije drugačije
+određeno.
+(2) Strane u individualnom, odnosno kolektivnom sporu
+same biraju miritelje i arbitre sa Liste miritelja i
+arbitara.
