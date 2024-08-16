@@ -1,0 +1,3 @@
+Član 6.
+(Dokazivanje statusa)
+U postupku ostvarivanja prava po ovom Zakonu branilac i član njegove porodice svoj status dokazuju rješenjem nadležne gradske/općinske službe o priznavanju svojstva dobitnika ratnog priznanja i odlikovanja i ratnog vojnog invalida, odnosno člana porodice šehida, poginulog, umrlog, nestalog branioca i člana uže porodice poginulog, umrlog ili nestalog dobitnika ratnog priznanja i odlikovanja, ili uvjerenjem nadležnog organa izdatog u skladu sa Zakonom o upravnom postupku („Službene novine FBiH“, broj: 2/98, 48/99 i 61/22), a demobilizirani branioci uvjerenjem VFMB-3a izdatog od strane nadležne Grupe za pitanja evidencija iz oblasti vojne obaveze.

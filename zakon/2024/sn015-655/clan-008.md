@@ -1,0 +1,3 @@
+Član 8.
+(Prednost u korištenju usluga zdravstvenih ustanova)
+Nadležni organi u ustanovama iz oblasti zdravstva osigurat će isticanje obavijesti na vidnim mjestima da prednost bez čekanja u redu imaju dobitnici ratnih priznanja ili odlikovanja, nosioci „Partizanske spomenice 1941“, ratni vojni invalidi, članovi porodice šehida, poginulog umrlog, nestalog branioca, članovi uže porodice poginulog ili nestalog dobitnika ratnog priznanja ili odlikovanja i članovi uže porodice poginulog ili umrlog nosioca „Partizanske spomenice 1941“, koji će svoj status dokazivati u skladu sa članom 6. ovog Zakona.
