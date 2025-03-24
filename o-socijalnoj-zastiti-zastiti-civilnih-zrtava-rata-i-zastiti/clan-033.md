@@ -1,0 +1,2 @@
+Član 33.
+Druga materijalna pomoć, u smislu ovog Zakona je privremena, jednokratna, druga novčana pomoć ili naturalno davanje materijalno neosiguranom licu ili porodici koja se nađe u stanju socijalne potrebe zbog: pretrpljene prisilne migracije, repatrijacije, smrti jednog ili više članova porodice, liječenja, odlaska i povratka sa liječenja, otpuštanja sa izdržavanja kazne zatvora, izvršavanja odgojne mjere, elementarne nepogode, iznenadnih nesretnih događaja u porodici i drugih okolnosti koje uzrokuju stanje socijalne potrebe.
