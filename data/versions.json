@@ -1,0 +1,89 @@
+{
+ "country": "BA-04",
+ "acts": [
+  {
+   "slug": "o-mirnom-okupljanju",
+   "short": "Zakon o mirnom okupljanju",
+   "title": "Zakon o mirnom okupljanju",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7717",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 37,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7717",
+     "sha256": "337dcc9c415b436751b5a0193631a175d8b986527d563b7dbf835399a28dc403"
+    }
+   ]
+  },
+  {
+   "slug": "o-mirovnom-i-arbitraznom-vijecu",
+   "short": "Zakon o mirovnom i arbitražnom vijeću",
+   "title": "Zakon o mirovnom i arbitražnom vijeću",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7739",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 26,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7739",
+     "sha256": "41d527b8d0c2bfc7d7d752d95124b9912bf2569d559df61825f3727a7be6a00a"
+    }
+   ]
+  },
+  {
+   "slug": "o-socijalnoj-zastiti-zastiti-civilnih-zrtava-rata-i-zastiti",
+   "short": "Zakon o socijalnoj zaštiti, zaštiti civilnih žrtava rata i z",
+   "title": "Zakon o socijalnoj zaštiti, zaštiti civilnih žrtava rata i zaštiti porodice sa djecom -prečišćeni tekst-",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7785",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 159,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7785",
+     "sha256": "f69728c2117345866b88c7c4167fb5e4dc2a0eb115f23c177cc234e56966441f"
+    }
+   ]
+  },
+  {
+   "slug": "o-obiljezavanju-znacajnih-datuma",
+   "short": "Zakon o obilježavanju značajnih datuma",
+   "title": "Zakon o obilježavanju značajnih datuma",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7812",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 14,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7812",
+     "sha256": "2443962fdc782b09c591b3c0b5680b9af6f63ea0eff5f9b230fc3092b9c9e6da"
+    }
+   ]
+  },
+  {
+   "slug": "o-porezu-na-promet-nekretnina",
+   "short": "Zakon o porezu na promet nekretnina",
+   "title": "Zakon o porezu na promet nekretnina",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7830",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 40,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7830",
+     "sha256": "38fcea304b139535f8b4918d45a3cf6ca0f7df8e23b8f91026d5cbf021acbd65"
+    }
+   ]
+  },
+  {
+   "slug": "o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi",
+   "short": "Zakon o prijavljivanju i postupku provjere podataka o imovin",
+   "title": "Zakon o prijavljivanju i postupku provjere podataka o imovini nosilaca javnih funkcija",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7856",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 32,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7856",
+     "sha256": "eccc05e563486678abd6718f572f12739154233badf9cc51c62035f9f095f85f"
+    }
+   ]
+  }
+ ]
+}

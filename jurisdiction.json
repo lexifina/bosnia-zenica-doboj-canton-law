@@ -1,0 +1,11 @@
+{
+  "path": "ba-04",
+  "code": "BA-04",
+  "name": "Zenica-Doboj Canton",
+  "level": "canton",
+  "parent": "ba-bih",
+  "repo": "https://github.com/lexifina/bosnia-zenica-doboj-canton-law",
+  "build": "built: laws of 2024-2026 that nothing later amends, each as enacted or as an official consolidated text, from the Službene novine Zeničko-dobojskog kantona",
+  "language": "bs",
+  "sources": 1
+}
