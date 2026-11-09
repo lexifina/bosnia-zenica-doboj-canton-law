@@ -12,9 +12,9 @@ The text is in Bosnian (Latin script), from the Bosnian edition of the gazette; 
 
 The canton publishes the Službene novine Zeničko-dobojskog kantona on its site for 1996 to 2026; every issue listed there is read. Of the 132 Assembly laws the reader finds in them, 43 are here (from 2009), as:
 
-- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (1 laws added on 2026-11-09);
-- amending laws, each as an act of its own (35 added on 2026-11-09);
-- official consolidated texts (prečišćeni tekst), dated the day of their issue (1 added on 2026-11-09).
+- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (0 laws added on 2026-11-09);
+- amending laws, each as an act of its own (0 added on 2026-11-09);
+- official consolidated texts (prečišćeni tekst), dated the day of their issue (0 added on 2026-11-09).
 
 The first build (October 2026) holds its laws in folders named after them; laws added later are in `zakon/<year>/sn<issue>-<act number>/`, indexed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json).
 
@@ -43,6 +43,7 @@ Zenica-Doboj Canton (Zeničko-dobojski kanton), <https://zdk.ba/preuzimanja/sluz
 ## What "author" means
 
 The author of a commit is the law that made it, named by its gazette number, with an e-mail address that cannot exist (`<key>@zdk.ba.invalid`). The committer is always Lexifina.
+
 
 ## Freshness
 
