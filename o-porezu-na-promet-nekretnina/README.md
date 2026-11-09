@@ -44,3 +44,5 @@ Zakon o porezu na promet nekretnina · 1 versions, from 2026-01-08 (latest in fo
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-porezu-na-promet-nekretnina` (tags `o-porezu-na-promet-nekretnina/<day>`; `python tools/on.py <day> o-porezu-na-promet-nekretnina`).

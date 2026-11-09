@@ -41,3 +41,5 @@ Zakon o mirnom okupljanju · 1 versions, from 2023-12-20 (latest in force: 2023-
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-mirnom-okupljanju` (tags `o-mirnom-okupljanju/<day>`; `python tools/on.py <day> o-mirnom-okupljanju`).

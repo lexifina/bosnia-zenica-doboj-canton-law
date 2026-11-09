@@ -1,0 +1,650 @@
+{
+ "country": "BA-04",
+ "acts": [
+  {
+   "slug": "o-mirnom-okupljanju",
+   "path": "o-mirnom-okupljanju",
+   "short": "Zakon o mirnom okupljanju",
+   "title": "Zakon o mirnom okupljanju",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7717",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 37,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7717",
+     "sha256": "337dcc9c415b436751b5a0193631a175d8b986527d563b7dbf835399a28dc403"
+    }
+   ]
+  },
+  {
+   "slug": "o-mirovnom-i-arbitraznom-vijecu",
+   "path": "o-mirovnom-i-arbitraznom-vijecu",
+   "short": "Zakon o mirovnom i arbitražnom vijeću",
+   "title": "Zakon o mirovnom i arbitražnom vijeću",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7739",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 26,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7739",
+     "sha256": "41d527b8d0c2bfc7d7d752d95124b9912bf2569d559df61825f3727a7be6a00a"
+    }
+   ]
+  },
+  {
+   "slug": "o-socijalnoj-zastiti-zastiti-civilnih-zrtava-rata-i-zastiti",
+   "path": "o-socijalnoj-zastiti-zastiti-civilnih-zrtava-rata-i-zastiti",
+   "short": "Zakon o socijalnoj zaštiti, zaštiti civilnih žrtava rata i z",
+   "title": "Zakon o socijalnoj zaštiti, zaštiti civilnih žrtava rata i zaštiti porodice sa djecom -prečišćeni tekst-",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7785",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 159,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7785",
+     "sha256": "f69728c2117345866b88c7c4167fb5e4dc2a0eb115f23c177cc234e56966441f"
+    }
+   ]
+  },
+  {
+   "slug": "o-obiljezavanju-znacajnih-datuma",
+   "path": "o-obiljezavanju-znacajnih-datuma",
+   "short": "Zakon o obilježavanju značajnih datuma",
+   "title": "Zakon o obilježavanju značajnih datuma",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7812",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 14,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7812",
+     "sha256": "2443962fdc782b09c591b3c0b5680b9af6f63ea0eff5f9b230fc3092b9c9e6da"
+    }
+   ]
+  },
+  {
+   "slug": "o-porezu-na-promet-nekretnina",
+   "path": "o-porezu-na-promet-nekretnina",
+   "short": "Zakon o porezu na promet nekretnina",
+   "title": "Zakon o porezu na promet nekretnina",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7830",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 40,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7830",
+     "sha256": "38fcea304b139535f8b4918d45a3cf6ca0f7df8e23b8f91026d5cbf021acbd65"
+    }
+   ]
+  },
+  {
+   "slug": "o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi",
+   "path": "o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi",
+   "short": "Zakon o prijavljivanju i postupku provjere podataka o imovin",
+   "title": "Zakon o prijavljivanju i postupku provjere podataka o imovini nosilaca javnih funkcija",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7856",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 32,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7856",
+     "sha256": "eccc05e563486678abd6718f572f12739154233badf9cc51c62035f9f095f85f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn009-154",
+   "path": "zakon/2009/sn009-154",
+   "short": "Zakon o izmjeni zakona o policijskim službenicima Zeničko-do",
+   "title": "Zakon o izmjeni zakona o policijskim službenicima Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7177",
+   "versions": [
+    {
+     "from": "2009-05-30",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7177",
+     "sha256": "be3470556b18cbc793b5eb04da2b94ea2e666585a08e5f4ec4705123fb71dd11"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn015-326",
+   "path": "zakon/2009/sn015-326",
+   "short": "Zakon o izmjenama zakona o pečatu zeničko- dobojskog kantona",
+   "title": "Zakon o izmjenama zakona o pečatu zeničko- dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7189",
+   "versions": [
+    {
+     "from": "2009-11-20",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7189",
+     "sha256": "2af197290413feac5b4cc9a71272e8b13ed8966a8c53f6f5dbba3aa10b582350"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn015-327",
+   "path": "zakon/2009/sn015-327",
+   "short": "Zakon o izmjeni zakona o građenju",
+   "title": "Zakon o izmjeni zakona o građenju",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7189",
+   "versions": [
+    {
+     "from": "2009-11-20",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7189",
+     "sha256": "2af197290413feac5b4cc9a71272e8b13ed8966a8c53f6f5dbba3aa10b582350"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn019-437",
+   "path": "zakon/2009/sn019-437",
+   "short": "Zakon o izmjeni i dopunama zakona o srednjoj školi",
+   "title": "Zakon o izmjeni i dopunama zakona o srednjoj školi",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7197",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 19,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7197",
+     "sha256": "de3d57e35e88a4d1ea854efe03134f5745e2e90206b9a9c84e861e5d40af1ed8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn002-26",
+   "path": "zakon/2010/sn002-26",
+   "short": "Zakon o izmjenama zakona o kantonalnim administrativnim taks",
+   "title": "Zakon o izmjenama zakona o kantonalnim administrativnim taksama",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7203",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7203",
+     "sha256": "f01a6a4a057ba928d1e3e0bfe3be59afba28037b1182307bd3cf57a041fb9bba"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn007-253",
+   "path": "zakon/2010/sn007-253",
+   "short": "Zakon o predškolskom odgoju i obrazovanju",
+   "title": "Zakon o predškolskom odgoju i obrazovanju",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7213",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 66,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7213",
+     "sha256": "78e9a994d67301a2222fd1156b4de071096836f4651bb7e80e5292f3afdf04b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn009-336",
+   "path": "zakon/2010/sn009-336",
+   "short": "Zakon o preuzimanju zakona o državnoj službi u federaciji Bo",
+   "title": "Zakon o preuzimanju zakona o državnoj službi u federaciji Bosne i Hercegovine",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7217",
+   "versions": [
+    {
+     "from": "2010-10-02",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7217",
+     "sha256": "884329b47a768603fcf55d96e0e1b6a767f0569ee0707a9782df6dbb2167b9b8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn004-95",
+   "path": "zakon/2011/sn004-95",
+   "short": "Zakon o izmjeni zakona o nabavljanju, držanju i nošenju oruž",
+   "title": "Zakon o izmjeni zakona o nabavljanju, držanju i nošenju oružja i municije",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7237",
+   "versions": [
+    {
+     "from": "2011-04-08",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7237",
+     "sha256": "06e16c9077072ccb73faf7ec079461d69d7064527bb0066033ada416974abd51"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn006-132",
+   "path": "zakon/2011/sn006-132",
+   "short": "Zakon o izmjenama i dopunama zakona o kantonalnoj upravi civ",
+   "title": "Zakon o izmjenama i dopunama zakona o kantonalnoj upravi civilne zaštite",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7241",
+   "versions": [
+    {
+     "from": "2011-05-21",
+     "units": 10,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7241",
+     "sha256": "88532eeadcf0d22536be98440ac49b295494f93c6d3bcc64da86baf2dc41b698"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn006-133",
+   "path": "zakon/2011/sn006-133",
+   "short": "Zakon o izmjenama i dopunama zakona o nadležnostima kantonal",
+   "title": "Zakon o izmjenama i dopunama zakona o nadležnostima kantonalnih organa Zeničko-dobojskog kantona u oblasti zaštite i spašavanja ljudi i materijalnih dobara od prirodnih i drugih nesreća",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7241",
+   "versions": [
+    {
+     "from": "2011-05-21",
+     "units": 12,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7241",
+     "sha256": "88532eeadcf0d22536be98440ac49b295494f93c6d3bcc64da86baf2dc41b698"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn009-187",
+   "path": "zakon/2011/sn009-187",
+   "short": "Zakon o izmjenama i dopunama zakona o sportu",
+   "title": "Zakon o izmjenama i dopunama zakona o sportu",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7247",
+   "versions": [
+    {
+     "from": "2011-07-23",
+     "units": 32,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7247",
+     "sha256": "3abc384d1feaa385c924516614a4bc8c6f23f0cca23f22531b1b7c83093a3266"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn009-188",
+   "path": "zakon/2011/sn009-188",
+   "short": "Zakon o izmjenama i dopunama zakona o osnovnoj školi",
+   "title": "Zakon o izmjenama i dopunama zakona o osnovnoj školi",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7247",
+   "versions": [
+    {
+     "from": "2011-07-16",
+     "units": 26,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7247",
+     "sha256": "3abc384d1feaa385c924516614a4bc8c6f23f0cca23f22531b1b7c83093a3266"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn009-189",
+   "path": "zakon/2011/sn009-189",
+   "short": "Zakon o izmjenama i dopunama zakona o srednjoj školi",
+   "title": "Zakon o izmjenama i dopunama zakona o srednjoj školi",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7247",
+   "versions": [
+    {
+     "from": "2011-07-16",
+     "units": 20,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7247",
+     "sha256": "3abc384d1feaa385c924516614a4bc8c6f23f0cca23f22531b1b7c83093a3266"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn010-237",
+   "path": "zakon/2011/sn010-237",
+   "short": "Zakon o dopuni zakona o raseljenim licima i povratnicima",
+   "title": "Zakon o dopuni zakona o raseljenim licima i povratnicima",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7249",
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7249",
+     "sha256": "8b15031e5656c303cf6a497a4c7cc025191b05814baf04747002b3711cec2004"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn016-424",
+   "path": "zakon/2011/sn016-424",
+   "short": "Zakon o izmjeni i dopuni zakona o javnoj ustanovi univerzite",
+   "title": "Zakon o izmjeni i dopuni zakona o javnoj ustanovi univerzitet u Zenici",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7261",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7261",
+     "sha256": "59b3716701074ed2eec31a481bfd866f1c081ade2c75a2631135fb7206f667af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sn018-548",
+   "path": "zakon/2012/sn018-548",
+   "short": "Zakon o izmjenama i dopunama zakona o dopunskim pravima bran",
+   "title": "Zakon o izmjenama i dopunama zakona o dopunskim pravima branilaca i članova njihovih porodica",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7301",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 26,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7301",
+     "sha256": "85a59ed25ab99b9a2c3c275a156011bf49a6ee29d9f181501b855fa195029531"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn012-281",
+   "path": "zakon/2020/sn012-281",
+   "short": "Zakon o izmjeni zakona o porezu na promet nekretnina",
+   "title": "Zakon o izmjeni zakona o porezu na promet nekretnina",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7565",
+   "versions": [
+    {
+     "from": "2020-07-18",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7565",
+     "sha256": "6232d9a2ae7f0c25b1ac28cbbb783e5d4467d064606a76d37e88137c6e4a7c6f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn019-474",
+   "path": "zakon/2020/sn019-474",
+   "short": "Zakon o izmjenama i dopunama zakona o visokom obrazovanju",
+   "title": "Zakon o izmjenama i dopunama zakona o visokom obrazovanju",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7579",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 7,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7579",
+     "sha256": "41128e643520201dabc9810b8ca398f96c4780e18d304dd813d05b2a2b6752b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn010-252",
+   "path": "zakon/2021/sn010-252",
+   "short": "Zakon o izmjeni i dopunama zakona o javnom redu i miru",
+   "title": "Zakon o izmjeni i dopunama zakona o javnom redu i miru",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7607",
+   "versions": [
+    {
+     "from": "2021-07-06",
+     "units": 9,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7607",
+     "sha256": "6d945fcdb87aea78abdf80980eec77f70fb0d1d4266b948932736e7af91b98fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn015-435",
+   "path": "zakon/2021/sn015-435",
+   "short": "Zakon o izmjenama zakona o inspekcijama Zeničko-dobojskog ka",
+   "title": "Zakon o izmjenama zakona o inspekcijama Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7617",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 7,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7617",
+     "sha256": "723269a2057b0276bb50855a151378109d101885914cf1754b9be52da977faa5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn015-436",
+   "path": "zakon/2021/sn015-436",
+   "short": "Zakon o dopuni zakona o visokom obrazovanju",
+   "title": "Zakon o dopuni zakona o visokom obrazovanju",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7617",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7617",
+     "sha256": "723269a2057b0276bb50855a151378109d101885914cf1754b9be52da977faa5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn015-437",
+   "path": "zakon/2021/sn015-437",
+   "short": "Zakon o izmjenama i dopunama zakona o javnim priznanjima Zen",
+   "title": "Zakon o izmjenama i dopunama zakona o javnim priznanjima Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7617",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 7,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7617",
+     "sha256": "723269a2057b0276bb50855a151378109d101885914cf1754b9be52da977faa5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn004-90",
+   "path": "zakon/2022/sn004-90",
+   "short": "Zakon o izmjenama zakona o plaćama i naknadama policijskih s",
+   "title": "Zakon o izmjenama zakona o plaćama i naknadama policijskih službenika Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7635",
+   "versions": [
+    {
+     "from": "2022-02-05",
+     "units": 7,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7635",
+     "sha256": "f253ef05a5b62c605412d92500ac161ac19bfd755cdd3fc9024c30f4d7c28937"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn008-156",
+   "path": "zakon/2022/sn008-156",
+   "short": "Zakon o dopuni zakona o kantonalnim ministarstvima i drugim",
+   "title": "Zakon o dopuni zakona o kantonalnim ministarstvima i drugim tijelima kantonalne uprave",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7643",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7643",
+     "sha256": "c62fd65e7fcd4f0d0e1b7ee5dd1d857cf4e7226e40088f8fbd2b9abbecc60af8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn016-458",
+   "path": "zakon/2022/sn016-458",
+   "short": "Zakon o izmjenama zakona o naučnoistraživačkoj djelatnosti",
+   "title": "Zakon o izmjenama zakona o naučnoistraživačkoj djelatnosti",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7659",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7659",
+     "sha256": "edf6ea42f258eb739b6081c47e11f036739e6f1c70da06352282edc049cac72a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn003-56",
+   "path": "zakon/2023/sn003-56",
+   "short": "Zakon o izmjeni zakona o vladi Zeničko-dobojskog kantona",
+   "title": "Zakon o izmjeni zakona o vladi Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7687",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7687",
+     "sha256": "236bd02dbff120ccf0833cd0ef5339ab9e8866c190efe30c24985351ac9fd74d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn008-174",
+   "path": "zakon/2023/sn008-174",
+   "short": "Zakon o izmjenama i dopuni zakona o unutrašnjim poslovima Ze",
+   "title": "Zakon o izmjenama i dopuni zakona o unutrašnjim poslovima Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7697",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 8,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7697",
+     "sha256": "55157e67193b97b1aa098caec66abaf60108649ce50c7bc4b4e0734fb0a68fee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn004-162",
+   "path": "zakon/2024/sn004-162",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama u organima vlas",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama u organima vlasti Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7731",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7731",
+     "sha256": "26a9438ffe206f0af64ef4c319a2f3dc1bedef548ab553582ed03ab5bd3dfb05"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn004-163",
+   "path": "zakon/2024/sn004-163",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama policijskih slu",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama policijskih službenika Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7731",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7731",
+     "sha256": "26a9438ffe206f0af64ef4c319a2f3dc1bedef548ab553582ed03ab5bd3dfb05"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn010-440",
+   "path": "zakon/2024/sn010-440",
+   "short": "Zakon o izmjenama i dopuni zakona o plaćama",
+   "title": "Zakon o izmjenama i dopuni zakona o plaćama",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7745",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 9,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7745",
+     "sha256": "ff83db80e6460cb925752884cfeb94efd202e9eada71435acd1561107b011c92"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn015-655",
+   "path": "zakon/2024/sn015-655",
+   "short": "Zakon o dopunskim pravima branilaca i članova njihovih porod",
+   "title": "Zakon o dopunskim pravima branilaca i članova njihovih porodica",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7755",
+   "versions": [
+    {
+     "from": "2024-08-16",
+     "units": 68,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7755",
+     "sha256": "4806076f0f91ac358aca1d24e50e65d5ab8e3742504aaf85cd8b418bbf55533a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn001-1",
+   "path": "zakon/2025/sn001-1",
+   "short": "Zakon o izmjenama i dopunama zakona o policijskim službenici",
+   "title": "Zakon o izmjenama i dopunama zakona o policijskim službenicima Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7779",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 15,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7779",
+     "sha256": "d1e6433163424d5cb2add30284d9fddfd600cc2fd886688304885a790aaee7f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn010-665",
+   "path": "zakon/2025/sn010-665",
+   "short": "Zakon o izmjenama i dopunama zakona o inspekcijama Zeničko-d",
+   "title": "Zakon o izmjenama i dopunama zakona o inspekcijama Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7799",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7799",
+     "sha256": "074c93587b6fe53a6ac21a3e82191ac805cd9865222c34a0c5f3a2a25412b5ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn012-709",
+   "path": "zakon/2025/sn012-709",
+   "short": "Zakon o izmjeni zakona o proglašenju spomenika prirode “taja",
+   "title": "Zakon o izmjeni zakona o proglašenju spomenika prirode “tajan”",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7803",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7803",
+     "sha256": "dc308f5f55ac9cc192b6a1fce6d899fb35585266ca1f2f3d50fafbb95fb6767e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn016-880",
+   "path": "zakon/2025/sn016-880",
+   "short": "Zakon o izmjenama zakona o policijskim službenicima Zeničko",
+   "title": "Zakon o izmjenama zakona o policijskim službenicima Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7812",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7812",
+     "sha256": "2443962fdc782b09c591b3c0b5680b9af6f63ea0eff5f9b230fc3092b9c9e6da"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn016-881",
+   "path": "zakon/2025/sn016-881",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama policijskih slu",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama policijskih službenika Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7812",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7812",
+     "sha256": "2443962fdc782b09c591b3c0b5680b9af6f63ea0eff5f9b230fc3092b9c9e6da"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn024-1241",
+   "path": "zakon/2025/sn024-1241",
+   "short": "Zakon o izmjeni i dopunama zakona o šumama",
+   "title": "Zakon o izmjeni i dopunama zakona o šumama",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7830",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7830",
+     "sha256": "38fcea304b139535f8b4918d45a3cf6ca0f7df8e23b8f91026d5cbf021acbd65"
+    }
+   ]
+  }
+ ]
+}

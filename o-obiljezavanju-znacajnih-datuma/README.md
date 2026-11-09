@@ -18,3 +18,5 @@ Zakon o obilježavanju značajnih datuma · 1 versions, from 2025-10-21 (latest 
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-obiljezavanju-znacajnih-datuma` (tags `o-obiljezavanju-znacajnih-datuma/<day>`; `python tools/on.py <day> o-obiljezavanju-znacajnih-datuma`).

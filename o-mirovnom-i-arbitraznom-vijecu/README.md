@@ -30,3 +30,5 @@ Zakon o mirovnom i arbitražnom vijeću · 1 versions, from 2024-04-19 (latest i
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-mirovnom-i-arbitraznom-vijecu` (tags `o-mirovnom-i-arbitraznom-vijecu/<day>`; `python tools/on.py <day> o-mirovnom-i-arbitraznom-vijecu`).
