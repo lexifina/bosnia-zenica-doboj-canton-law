@@ -37,4 +37,4 @@ Zakon o prijavljivanju i postupku provjere podataka o imovin · 1 versions, from
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi` (tags `o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi/<day>`; `python tools/on.py <day> o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi`).
+Act id: `o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi` (tags `o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi/<day>`; `python registry/tools/on.py <day> o-prijavljivanju-i-postupku-provjere-podataka-o-imovini-nosi`).

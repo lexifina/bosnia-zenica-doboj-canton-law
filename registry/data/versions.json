@@ -645,6 +645,276 @@
      "sha256": "38fcea304b139535f8b4918d45a3cf6ca0f7df8e23b8f91026d5cbf021acbd65"
     }
    ]
+  },
+  {
+   "slug": "zakon-2013-sn003-87",
+   "path": "zakon/2013/sn003-87",
+   "short": "Zakon o dopuni zakona o koncesijama",
+   "title": "Zakon o dopuni zakona o koncesijama",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7313",
+   "versions": [
+    {
+     "from": "2013-04-06",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7313",
+     "sha256": "f1103d82d6f0373dc424062f1cb70964089fd2e41b44ac96766b07c6cd010a8b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn005-125",
+   "path": "zakon/2013/sn005-125",
+   "short": "Zakon o javno-privatnom partnerstvu",
+   "title": "Zakon o javno-privatnom partnerstvu",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7317",
+   "versions": [
+    {
+     "from": "2013-05-11",
+     "units": 40,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7317",
+     "sha256": "27477718d3229816aa3f818f8e96f8e1d1ed85d618d5386eb5a4c0effb0feda8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn006-155",
+   "path": "zakon/2013/sn006-155",
+   "short": "Zakon o javnim priznanjima zeničko- dobojskog kantona",
+   "title": "Zakon o javnim priznanjima zeničko- dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7319",
+   "versions": [
+    {
+     "from": "2013-06-08",
+     "units": 21,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7319",
+     "sha256": "b0b7229f3f8129ecc6d1e24961c10602c96b39bceb8d6a22cd00a5ce41799b27"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn006-156",
+   "path": "zakon/2013/sn006-156",
+   "short": "Zakon o dopuni zakona o porezu na promet nekretnina",
+   "title": "Zakon o dopuni zakona o porezu na promet nekretnina",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7319",
+   "versions": [
+    {
+     "from": "2013-06-08",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7319",
+     "sha256": "b0b7229f3f8129ecc6d1e24961c10602c96b39bceb8d6a22cd00a5ce41799b27"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn012-372",
+   "path": "zakon/2013/sn012-372",
+   "short": "Zakon o pravobranilaštvu",
+   "title": "Zakon o pravobranilaštvu",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7331",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 64,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7331",
+     "sha256": "c67e21146d91acbbe0607a59fc2e07c0a813e740bf072d4add9deed5e1a49486"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn012-373",
+   "path": "zakon/2013/sn012-373",
+   "short": "Zakon o izmjenama i dopunama zakona o kantonalnim administra",
+   "title": "Zakon o izmjenama i dopunama zakona o kantonalnim administrativnim taksama",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7331",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 18,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7331",
+     "sha256": "c67e21146d91acbbe0607a59fc2e07c0a813e740bf072d4add9deed5e1a49486"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn012-374",
+   "path": "zakon/2013/sn012-374",
+   "short": "Zakon o povjeravanju javnih ovlaštenja iz oblasti zaštite ok",
+   "title": "Zakon o povjeravanju javnih ovlaštenja iz oblasti zaštite okoliša",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7331",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 10,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7331",
+     "sha256": "c67e21146d91acbbe0607a59fc2e07c0a813e740bf072d4add9deed5e1a49486"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn012-375",
+   "path": "zakon/2013/sn012-375",
+   "short": "Zakon o izmjeni zakona o pripadnosti javnih prihoda na podru",
+   "title": "Zakon o izmjeni zakona o pripadnosti javnih prihoda na području Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7331",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7331",
+     "sha256": "c67e21146d91acbbe0607a59fc2e07c0a813e740bf072d4add9deed5e1a49486"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn014-501",
+   "path": "zakon/2013/sn014-501",
+   "short": "Zakon o izmjenama i dopunama zakona o policijskim službenici",
+   "title": "Zakon o izmjenama i dopunama zakona o policijskim službenicima Zeničko-dobojskog kantona",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7335",
+   "versions": [
+    {
+     "from": "2014-01-07",
+     "units": 54,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7335",
+     "sha256": "6cc13b6506609b619ec7f88b2ced687f3898677b164a1550a5e9b88fa931bab5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn003-255",
+   "path": "zakon/2014/sn003-255",
+   "short": "Zakon o izmjeni i dopuni zakona o kantonalnim administrativn",
+   "title": "Zakon o izmjeni i dopuni zakona o kantonalnim administrativnim taksama",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7345",
+   "versions": [
+    {
+     "from": "2014-07-16",
+     "units": 7,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7345",
+     "sha256": "151941d7ee49f73fad6c7bd79efa70afff99365744b1da9f006483def6eb7e12"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sn001-1",
+   "path": "zakon/2015/sn001-1",
+   "short": "Zakon o dopuni zakona o sudskim taksama",
+   "title": "Zakon o dopuni zakona o sudskim taksama",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7361",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 6,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7361",
+     "sha256": "16e28e35d1111bd9fd0dff49f0b8b7389c1d13531abc6aaa9ed41249546c5476"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sn007-261",
+   "path": "zakon/2015/sn007-261",
+   "short": "Zakon o prestanku primjene zakona o elektroenergetskoj inspe",
+   "title": "Zakon o prestanku primjene zakona o elektroenergetskoj inspekciji",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7373",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7373",
+     "sha256": "d196b3802558db0136cae680316fa35e38cceade03a233da86acfd71d738af2f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn004-85",
+   "path": "zakon/2016/sn004-85",
+   "short": "Zakon o izmjenama zakona o javnom redu i miru",
+   "title": "Zakon o izmjenama zakona o javnom redu i miru",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7389",
+   "versions": [
+    {
+     "from": "2016-04-23",
+     "units": 7,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7389",
+     "sha256": "46326e613386891d427e5d1a6999a6b8381be7ac0095663c4aaf025b91a6e80d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn004-87",
+   "path": "zakon/2016/sn004-87",
+   "short": "Zakon o izmjenama i dopuni zakona o prostornom uređenju i gr",
+   "title": "Zakon o izmjenama i dopuni zakona o prostornom uređenju i građenju",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7389",
+   "versions": [
+    {
+     "from": "2016-04-23",
+     "units": 11,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7389",
+     "sha256": "46326e613386891d427e5d1a6999a6b8381be7ac0095663c4aaf025b91a6e80d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn006-199",
+   "path": "zakon/2016/sn006-199",
+   "short": "Zakon o izmjeni zakona o javnoj ustanovi univerzitet u Zenic",
+   "title": "Zakon o izmjeni zakona o javnoj ustanovi univerzitet u Zenici",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7393",
+   "versions": [
+    {
+     "from": "2016-07-09",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7393",
+     "sha256": "5106142fdf098e357f7e0dfa4285e655b9535720bda2705ef78cf9482c9baba7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn010-205",
+   "path": "zakon/2018/sn010-205",
+   "short": "Zakon o izmjenama i dopunama zakona o osnivanju javne ustano",
+   "title": "Zakon o izmjenama i dopunama zakona o osnivanju javne ustanove institut za zdravlje i sigurnost hrane Zenica",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7469",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 8,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7469",
+     "sha256": "17693328b80c1309aecc1491baf49d7b2d8abf575502ff2c7a69fdfe655d2666"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn010-206",
+   "path": "zakon/2018/sn010-206",
+   "short": "Zakon o dopuni zakona o javnoj ustanovi univerzitet u Zenici",
+   "title": "Zakon o dopuni zakona o javnoj ustanovi univerzitet u Zenici",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7469",
+   "versions": [
+    {
+     "from": "2018-07-21",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7469",
+     "sha256": "17693328b80c1309aecc1491baf49d7b2d8abf575502ff2c7a69fdfe655d2666"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sn004-73",
+   "path": "zakon/2019/sn004-73",
+   "short": "Zakon o dopuni zakona o visokom obrazovanju",
+   "title": "Zakon o dopuni zakona o visokom obrazovanju",
+   "url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7495",
+   "versions": [
+    {
+     "from": "2019-05-08",
+     "units": 5,
+     "source_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7495",
+     "sha256": "4d557ecc69c19411bb63657f5d632ce563e2dc6a79a331ce2b7175120da8d4e2"
+    }
+   ]
   }
  ]
 }

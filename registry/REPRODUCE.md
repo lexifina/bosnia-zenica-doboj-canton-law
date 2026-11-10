@@ -1,6 +1,6 @@
 # How this repository was made (Zenica-Doboj Canton)
 
-This file is written by the build on 2026-11-09, the day the source data was retrieved.
+This file is written by the build on 2026-11-10, the day the source data was retrieved.
 
 ## Sources
 
@@ -15,21 +15,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 43 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 43 | |
+| 61 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 61 | |
 
-The build made 37 commits:
+The build made 55 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 37 | first version of an act |
+| 55 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `buducnost`: laws not yet in force on 2026-11-09.
+- 0 commits on the branch `buducnost`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 43 laws in the record.
-- 84 tags.
+- 61 laws in the record.
+- 120 tags.
 
 ## Dates
 
@@ -41,8 +41,8 @@ When a law gives no date of its own, the default rule applies: A law takes effec
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `870adc511dfad8fb6208511c2172bac8c3277f69b69f1ead7ad67ca9e366530d` (486009 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `ca294ab3d2553b6e8322e838325b576a0939da6b`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
+- Corpus: sha256 `4e43c695b956c672a088c512c1e5f60c04ccbe171043be741506e95de530bec1` (647193 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `25c4d4ad1a400561b148aac78a08e20fe3cb39c7`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks

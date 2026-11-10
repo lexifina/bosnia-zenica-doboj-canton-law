@@ -11,10 +11,14 @@ Zakon o preuzimanju zakona o državnoj službi u federaciji Bo · 1 versions, fr
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
 
-Act id: `zakon-2010-sn009-336` (tags `zakon-2010-sn009-336/<day>`; `python tools/on.py <day> zakon-2010-sn009-336`).
+Act id: `zakon-2010-sn009-336` (tags `zakon-2010-sn009-336/<day>`; `python registry/tools/on.py <day> zakon-2010-sn009-336`).
 
-## Decisions made by hand
+## Status
 
-- Every Assembly law the reader finds in the gazette issues read (2000-12-31 to 2026-11-09) is accounted for: published, or held with the reason (data/held.json).
-- A law that later laws in those issues amend, or cite next to words of repeal, is published as enacted and labelled "amended, not consolidated"; the later laws are listed in amended_by (data/acts.json). Amending laws are published as acts of their own; official consolidated texts (prečišćeni tekst) as acts of their own, dated their issue day. Budget laws are out of scope (temporary).
-- Each law is dated its issue date plus the days its final article names, credited to itself.
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Z A K O N O PREUZIMANJU ZAKONA O DRŽAVNOJ SLUŽBI U FEDERACIJI BOSNE I HERCEGOVINE Član 1. (Predmet) Član 2. (Primjena) KANTONA ZENICA, ponedjeljak, 19.03.2012. Član 3. (Stavljanje van snage postojećeg](https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7271)
+- [Z A K O N o izmjenama i dopunama Zakona o dopunskim pravima branilaca i članova njihovih porodica Član 1. Član 3.](https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7301)
+- [Z A K O N O DOPUNSKIM PRAVIMA BRANILACA I ČLANOVA NJIHOVIH PORODICA DIO PRVI - OPĆE ODREDBE Član 1. (Predmet Zakona)](https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7755)
