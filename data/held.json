@@ -1,6 +1,6 @@
 {
 "note": "In-scope acts held back from main, with the reason and the official page.",
-"count": 96,
+"count": 117,
 "acts": [
 {
 "act": "O IZMJENAMA ZAKONA O KANTONALNOM TUŽILAŠTVU ZENIČKO- DOBOJSKOG KANTONA",
@@ -516,6 +516,258 @@
 "official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7299"
 },
 {
+"act": "O DOPUNSKIM PRAVIMA BRANILACA I ČLANOVA NJIHOVIH PORODICA",
+"gazette": "Službene novine Zeničko-dobojskog kantona 5/2013",
+"date": "2013-05-03",
+"act_no": 126,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7317"
+},
+{
+"act": "O UTVRĐIVANJU I OBILJEŽAVANJU DANA ZENIČKO-DOBOJSKOG KANTONA",
+"gazette": "Službene novine Zeničko-dobojskog kantona 6/2013",
+"date": "2013-05-31",
+"act_no": 154,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7319"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O VISOKOM OBRAZOVANJU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 13/2013",
+"date": "2013-12-27",
+"act_no": 431,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7333"
+},
+{
+"act": "o izmjenama i dopuni Zakona o Javnoj ustanovi Univerzitet u Zenici",
+"gazette": "Službene novine Zeničko-dobojskog kantona 13/2013",
+"date": "2013-12-27",
+"act_no": 432,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7333"
+},
+{
+"act": "O SOCIJALNO- NEPROFITNOM STANOVANJU ZENIČKO-DOBOJSKOG KANTONA",
+"gazette": "Službene novine Zeničko-dobojskog kantona 13/2013",
+"date": "2013-12-27",
+"act_no": 433,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7333"
+},
+{
+"act": "O DOPUNI ZAKONA O IZVRŠAVANJU BUDŽETA ZENIČKO-DOBOJSKOG KANTONA ZA 2013. GODINU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 14/2013",
+"date": "2013-12-30",
+"act_no": 500,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7335"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA ZENIČKO- DOBOJSKOG KANTONA ZA 2014. GODINU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 15/2013",
+"date": "2013-12-31",
+"act_no": 526,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7337"
+},
+{
+"act": "o izmjenama i dopunama Zakona o javnim priznanjima Zeničko-dobojskog kantona",
+"gazette": "Službene novine Zeničko-dobojskog kantona 2/2014",
+"date": "2014-05-12",
+"act_no": 163,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7343"
+},
+{
+"act": "law no. 320",
+"gazette": "Službene novine Zeničko-dobojskog kantona 4/2014",
+"date": "2014-05-13",
+"act_no": 320,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: fewer than two articles",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7347"
+},
+{
+"act": "law no. 321",
+"gazette": "Službene novine Zeničko-dobojskog kantona 4/2014",
+"date": "2014-05-13",
+"act_no": 321,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: fewer than two articles",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7347"
+},
+{
+"act": "law no. 322",
+"gazette": "Službene novine Zeničko-dobojskog kantona 4/2014",
+"date": "2014-05-13",
+"act_no": 322,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: fewer than two articles",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7347"
+},
+{
+"act": "law no. 377",
+"gazette": "Službene novine Zeničko-dobojskog kantona 5/2014",
+"date": "2014-10-31",
+"act_no": 377,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: heading after the last article",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7349"
+},
+{
+"act": "o izmjenama i dopuni Zakona o socijalnoj zaštiti, zaštiti civilnih žrtava rata i zaštiti porodice sa djecom",
+"gazette": "Službene novine Zeničko-dobojskog kantona 3/2015",
+"date": "2015-04-27",
+"act_no": 90,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7365"
+},
+{
+"act": "law no. 6",
+"gazette": "Službene novine Zeničko-dobojskog kantona 1/2016",
+"date": "2016-01-29",
+"act_no": 6,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: heading after the last article",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7383"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA ZENIČKO- DOBOJSKOG KANTONA ZA 2016. GODINU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 2/2016",
+"date": "2016-02-26",
+"act_no": 34,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7385"
+},
+{
+"act": "o korištenju, upravljanju i održavanju zajedničkih dijelova i uređaja zgrade",
+"gazette": "Službene novine Zeničko-dobojskog kantona 4/2016",
+"date": "2016-04-15",
+"act_no": 84,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7389"
+},
+{
+"act": "O UGOSTITELJSKOJ DJELATNOSTI",
+"gazette": "Službene novine Zeničko-dobojskog kantona 5/2016",
+"date": "2016-05-31",
+"act_no": 141,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7391"
+},
+{
+"act": "O IZMJENI ZAKONA O IZVRŠAVANJU BUDŽETA ZENIČKO-DOBOJSKOG KANTONA ZA 2016. GODINU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 5/2016",
+"date": "2016-05-31",
+"act_no": 142,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7391"
+},
+{
+"act": "O JAVNO-PRIVATNOM PARTNERSTVU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 6/2016",
+"date": "2016-07-01",
+"act_no": 198,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7393"
+},
+{
+"act": "O POTICANJU RAZVOJA MALE PRIVREDE",
+"gazette": "Službene novine Zeničko-dobojskog kantona 7/2016",
+"date": "2016-07-29",
+"act_no": 252,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7395"
+},
+{
+"act": "O JAVNOM OKUPLJANJU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 10/2016",
+"date": "2016-09-09",
+"act_no": 438,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7401"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA ZENIČKO-DOBOJSKOG KANTONA ZA 2017. GODINU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 15/2016",
+"date": "2016-12-30",
+"act_no": 578,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7409"
+},
+{
+"act": "O DOPUNAMA ZAKONA O JAVNOM REDU I MIRU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 6/2017",
+"date": "2017-05-12",
+"act_no": 156,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7429"
+},
+{
+"act": "O IZMJENAMA ZAKONA O IZVRŠAVANJU BUDŽETA ZENIČKO-DOBOJSKOG KANTONA ZA 2017. GODINU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 8/2017",
+"date": "2017-07-07",
+"act_no": 233,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7433"
+},
+{
+"act": "law no. 0",
+"gazette": "Službene novine Zeničko-dobojskog kantona 15/2017",
+"date": "2017-12-29",
+"act_no": 0,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no law name",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7447"
+},
+{
+"act": "O JAVNOJ USTANOVI UNIVERZITET U ZENICI - Prečišćeni tekst -",
+"gazette": "Službene novine Zeničko-dobojskog kantona 1/2018",
+"date": "2018-02-02",
+"act_no": 4,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7449"
+},
+{
+"act": "o dopuni Zakona o porezu na promet nekretnina",
+"gazette": "Službene novine Zeničko-dobojskog kantona 6/2018",
+"date": "2018-04-05",
+"act_no": 128,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7459"
+},
+{
+"act": "O IZVRŠAVANJU BUDŽETA ZENIČKO-DOBOJSKOG KANTONA ZA 2020. GODINU",
+"gazette": "Službene novine Zeničko-dobojskog kantona 24/2019",
+"date": "2019-12-31",
+"act_no": 566,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7539"
+},
+{
 "act": "law no. 161",
 "gazette": "Službene novine Zeničko-dobojskog kantona 7/2020",
 "date": "2020-04-13",
@@ -802,55 +1054,6 @@
 "reason": "amends a budget law (temporary), out of scope",
 "detail": "amends a budget law (temporary), out of scope",
 "official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7872"
-},
-{
-"act": null,
-"gazette": "Službene novine Zeničko-dobojskog kantona, 2013",
-"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
-"detail": "14 issues read, 18 ZAKON headings printed (all editions counted), 2 image-only issues; 0 laws read",
-"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
-},
-{
-"act": null,
-"gazette": "Službene novine Zeničko-dobojskog kantona, 2014",
-"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
-"detail": "9 issues read, 10 ZAKON headings printed (all editions counted), 1 image-only issues; 0 laws read",
-"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
-},
-{
-"act": null,
-"gazette": "Službene novine Zeničko-dobojskog kantona, 2015",
-"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
-"detail": "12 issues read, 7 ZAKON headings printed (all editions counted), 2 image-only issues; 0 laws read",
-"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
-},
-{
-"act": null,
-"gazette": "Službene novine Zeničko-dobojskog kantona, 2016",
-"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
-"detail": "16 issues read, 17 ZAKON headings printed (all editions counted), 4 image-only issues; 0 laws read",
-"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
-},
-{
-"act": null,
-"gazette": "Službene novine Zeničko-dobojskog kantona, 2017",
-"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
-"detail": "14 issues read, 6 ZAKON headings printed (all editions counted), 2 image-only issues; 0 laws read",
-"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
-},
-{
-"act": null,
-"gazette": "Službene novine Zeničko-dobojskog kantona, 2018",
-"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
-"detail": "20 issues read, 12 ZAKON headings printed (all editions counted), 4 image-only issues; 0 laws read",
-"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
-},
-{
-"act": null,
-"gazette": "Službene novine Zeničko-dobojskog kantona, 2019",
-"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
-"detail": "24 issues read, 4 ZAKON headings printed (all editions counted), 6 image-only issues; 0 laws read",
-"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
 }
 ]
 }
