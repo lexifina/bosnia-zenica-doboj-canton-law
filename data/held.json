@@ -1,6 +1,6 @@
 {
 "note": "In-scope acts held back from main, with the reason and the official page.",
-"count": 117,
+"count": 128,
 "acts": [
 {
 "act": "O IZMJENAMA ZAKONA O KANTONALNOM TUŽILAŠTVU ZENIČKO- DOBOJSKOG KANTONA",
@@ -1054,6 +1054,83 @@
 "reason": "amends a budget law (temporary), out of scope",
 "detail": "amends a budget law (temporary), out of scope",
 "official_url": "https://zdk.ba/component/advlisting/?view=download&format=raw&fileId=7872"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 1996",
+"reason": "issues are scanned images with no text layer",
+"detail": "1 issues read, 0 ZAKON headings printed (all editions counted), 1 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 1997",
+"reason": "issues are scanned images with no text layer",
+"detail": "16 issues read, 0 ZAKON headings printed (all editions counted), 16 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 1998",
+"reason": "issues are scanned images with no text layer",
+"detail": "20 issues read, 0 ZAKON headings printed (all editions counted), 20 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 1999",
+"reason": "issues are scanned images with no text layer",
+"detail": "24 issues read, 0 ZAKON headings printed (all editions counted), 24 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 2000",
+"reason": "issues are scanned images with no text layer",
+"detail": "18 issues read, 0 ZAKON headings printed (all editions counted), 17 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 2001",
+"reason": "issues are scanned images with no text layer",
+"detail": "13 issues read, 0 ZAKON headings printed (all editions counted), 13 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 2002",
+"reason": "issues are scanned images with no text layer",
+"detail": "14 issues read, 0 ZAKON headings printed (all editions counted), 14 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 2003",
+"reason": "issues are scanned images with no text layer",
+"detail": "16 issues read, 0 ZAKON headings printed (all editions counted), 16 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 2004",
+"reason": "issues are scanned images with no text layer",
+"detail": "15 issues read, 0 ZAKON headings printed (all editions counted), 15 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 2005",
+"reason": "issues are scanned images with no text layer",
+"detail": "13 issues read, 0 ZAKON headings printed (all editions counted), 13 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
+},
+{
+"act": null,
+"gazette": "Službene novine Zeničko-dobojskog kantona, 2006",
+"reason": "issues are scanned images with no text layer",
+"detail": "14 issues read, 0 ZAKON headings printed (all editions counted), 14 image-only issues; 0 laws read",
+"official_url": "https://zdk.ba/preuzimanja/sluzbene-novine"
 }
 ]
 }

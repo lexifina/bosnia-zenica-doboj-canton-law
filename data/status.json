@@ -1,17 +1,17 @@
 {
  "note": "Update status of this repository, refreshed by every refresh run.",
- "as_of": "2026-11-10T08:58:16+00:00",
+ "as_of": "2026-11-10T09:20:04+00:00",
  "updates": "idle",
- "last_published": "2026-11-09T23:51:18Z",
+ "last_published": "2026-11-10T08:58:16Z",
  "published_last_24h": {
-  "commits": 21
+  "commits": 22
  },
  "official_sources": [
   {
    "source": "Službene novine Zeničko-dobojskog kantona",
    "url": "https://zdk.ba/preuzimanja/sluzbene-novine",
    "state": "available",
-   "last_successful_contact": "2026-11-09"
+   "last_successful_contact": "2026-11-10"
   }
  ]
 }
